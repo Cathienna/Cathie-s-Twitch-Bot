@@ -72,6 +72,8 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 > BacNang - https://www.twitch.tv/bacnang
 
+> Sinstrite - https://www.twitch.tv/sinstrite
+
 *if you want to be on the list then DM me.*
 
 # FAQ
