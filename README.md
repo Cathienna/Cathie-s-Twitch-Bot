@@ -74,6 +74,8 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
 
 > Sinstrite - https://www.twitch.tv/sinstrite
 
+> Conebeard_ - https://www.twitch.tv/conebeard_
+
 *if you want to be on the list then DM me.*
 
 # FAQ
