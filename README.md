@@ -1,5 +1,5 @@
 
-![Example](https://dl.dropboxusercontent.com/s/f68ba5q3u6e1tut/Twitch%20Bot%20Panel.png)
+![Example](https://dl.dropboxusercontent.com/s/83vkc01txobjwoh/Twitch%20Bot%20Panel.png)
 
 *The information about the bot is work in progress, it will take some time to get all the details down so be patient please.*
 *The wiki page is being made and is being filled with the proper information.*
@@ -112,5 +112,5 @@ Something like this already exists, why make it?
 **NOTE: The bot might disconnect after 6 hours of usage, just restart the bot and it works fine again, this is an issue i'm working hard on to fix.**
 
 # Resources
-Twitch Panel: (https://dl.dropboxusercontent.com/s/f68ba5q3u6e1tut/Twitch%20Bot%20Panel.png)
-![Twitch Panel](https://dl.dropboxusercontent.com/s/f68ba5q3u6e1tut/Twitch%20Bot%20Panel.png)
+Twitch Panel: (https://dl.dropboxusercontent.com/s/83vkc01txobjwoh/Twitch%20Bot%20Panel.png)
+![Twitch Panel](https://dl.dropboxusercontent.com/s/83vkc01txobjwoh/Twitch%20Bot%20Panel.png)
