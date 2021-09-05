@@ -53,7 +53,7 @@ It is a Twitch Bot that contains Channel Points and Bits features to make your c
  - And many more...
 
 # How to support me and stay updated to the bot
-> **[Discord](https://discord.gg/8MQqy2nvs5)** (For future updates and support of the bot)
+> **[Discord](https://discord.gg/u6SpUpfMzy)** (For future updates and support of the bot)
 > 
 > **[Twitter](https://twitter.com/cathienna)** (A follow doesn't hurt)
 > 
